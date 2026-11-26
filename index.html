@@ -940,7 +940,7 @@ body.color .nodo image{filter:none}
   }
 
   function verEnMapa(id) {
-    cerrarFicha();
+  
     elegirNodo(id);
     requestAnimationFrame(() => {
       $('#relaciones').scrollIntoView({ behavior: reducir() ? 'auto' : 'smooth', block: 'start' });
