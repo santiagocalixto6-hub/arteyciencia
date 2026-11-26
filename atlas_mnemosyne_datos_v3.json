@@ -1,0 +1,307 @@
+{
+  "convencion": "Los datos pendientes de contrastar con la ficha del museo o la fuente están en el campo por_verificar de cada obra; la página no los muestra. mapa.x y mapa.y son la posición de cada obra en el mapa de relaciones (lienzo de 1000 por 620).",
+  "paneles": [
+    {
+      "n": 1,
+      "nombre": "La esfera",
+      "formula": "el cosmos como volumen: cerrado o irradiante",
+      "pregunta": "¿Es el origen una forma cerrada que contiene el mundo o una que lo irradia, y desde dónde se mira: desde fuera, como en el Bosco, o desde dentro, como en Attia?",
+      "cab": "izq",
+      "proporcion": "4 / 3"
+    },
+    {
+      "n": 2,
+      "nombre": "El cuerpo",
+      "formula": "el mundo hecho de un cuerpo o apoyado en él",
+      "pregunta": "¿Qué cuerpo pone el mito en el origen (partido, materno o dormido) y qué se pierde cuando la física lo lee como metáfora?",
+      "cab": "der",
+      "proporcion": "4 / 3"
+    }
+  ],
+  "obras": [
+    {
+      "id": "fanes-relieve",
+      "panel": "1. La esfera",
+      "corto": "Fanes",
+      "titulo": "Relieve de Fanes",
+      "autor": "Anónimo (escultor romano)",
+      "fecha": "s. II E.C.",
+      "mito_o_teoria": "Teogonía órfica: Fanes, el dios «que hace aparecer», nace del huevo cósmico y origina el mundo. Algunos estudiosos lo identifican también con Aión, dios del tiempo, y el óvalo del relieve es más una mandorla zodiacal que un huevo explícito.",
+      "formula_visual": "Figura alada y erguida dentro de un óvalo rodeado por el anillo del zodiaco; una serpiente se enrosca a su cuerpo.",
+      "por_que_esta_aqui": "Es el punto donde mito y astronomía se tocan en un mismo objeto: el origen encerrado en el calendario celeste, con el zodiaco como contorno del cosmos.",
+      "imagen": {
+        "archivo": "img/fanes-relieve.jpg",
+        "ancho": 303,
+        "alto": 406,
+        "alt": "Relieve de mármol: una figura alada y erguida, rodeada por una serpiente, dentro de un óvalo bordeado por los signos del zodiaco.",
+        "credito": "Imagen aportada por el grupo."
+      },
+      "posicion": {
+        "x": 34,
+        "y": 6,
+        "w": 15,
+        "r": -1.5
+      },
+      "por_verificar": [
+        "Institución, crédito y licencia de la imagen",
+        "Identificación como Fanes o como Aión",
+        "Datación en el siglo II E.C."
+      ],
+      "mapa": {
+        "x": 200,
+        "y": 130
+      }
+    },
+    {
+      "id": "bosco-jardin-exterior",
+      "panel": "1. La esfera",
+      "corto": "El Bosco",
+      "titulo": "El jardín de las delicias (tríptico cerrado: La Creación del mundo / tercer día)",
+      "autor": "Hieronymus Bosch (El Bosco)",
+      "fecha": "c. 1490-1510 E.C.",
+      "mito_o_teoria": "Génesis 1 (tercer día: aparición de la tierra y la vegetación). Las inscripciones superiores recogen el Salmo 33,9 (Vulgata 32,9) sobre la palabra creadora. La Tierra aparece como un disco dentro de una esfera transparente, imagen que se ha relacionado con la cosmografía medieval.",
+      "formula_visual": "Esfera transparente que encierra el mundo, vista desde fuera: un disco de tierra con vegetación sobre las aguas; Dios, como pequeña figura en el ángulo superior izquierdo; grisalla exterior frente al color del interior del tríptico.",
+      "por_que_esta_aqui": "Versión teológica de la esfera cerrada: el cosmos como volumen finito, contemplado desde fuera por Dios; contrasta con el universo en expansión, que no tiene un exterior desde el cual verlo.",
+      "imagen": {
+        "archivo": "img/bosco-jardin-exterior.jpg",
+        "ancho": 523,
+        "alto": 557,
+        "alt": "Dos tablas exteriores en grisalla: una esfera transparente que contiene un disco de tierra con vegetación sobre las aguas; arriba a la izquierda, una pequeña figura de Dios.",
+        "credito": "Imagen aportada por el grupo."
+      },
+      "posicion": {
+        "x": 53,
+        "y": 5,
+        "w": 28,
+        "r": 1.2
+      },
+      "por_verificar": [
+        "Fecha exacta (la bibliografía la sitúa entre c. 1490 y c. 1510)",
+        "Crédito de la imagen (probable fuente: Museo del Prado)",
+        "Lectura de la esfera como cosmografía medieval"
+      ],
+      "mapa": {
+        "x": 500,
+        "y": 125
+      }
+    },
+    {
+      "id": "attia-big-bang",
+      "panel": "1. La esfera",
+      "corto": "Attia",
+      "titulo": "Big Bang",
+      "autor": "Kader Attia (atribución del grupo)",
+      "fecha": "2005",
+      "mito_o_teoria": "Teoría del Big Bang (Lemaître: universo en expansión, 1927, y átomo primitivo, 1931; el nombre lo acuña Hoyle en 1949). La obra remite a la imagen popular de una explosión, no a la teoría, que describe la expansión del propio espacio.",
+      "formula_visual": "Esfera suspendida, hecha de fragmentos brillantes, que esparce puntos de luz por las paredes; el espectador queda dentro del universo proyectado.",
+      "por_que_esta_aqui": "Cierra el panel con la esfera que irradia: el cosmos ya no se mira desde fuera sino desde dentro. Es una imagen de la idea popular del Big Bang, no una imagen científica, y su parecido con el destello de las glorias barrocas es una analogía formal, no una transmisión demostrada.",
+      "imagen": {
+        "archivo": "img/attia-big-bang.jpg",
+        "ancho": 818,
+        "alto": 528,
+        "alt": "Una gran esfera de fragmentos brillantes cuelga del techo y proyecta puntos de luz por las paredes; un espectador la mira desde abajo.",
+        "credito": "Imagen aportada por el grupo."
+      },
+      "posicion": {
+        "x": 8,
+        "y": 52,
+        "w": 42,
+        "r": 0.7
+      },
+      "por_verificar": [
+        "Autoría de la obra, año, foto, crédito y licencia"
+      ],
+      "mapa": {
+        "x": 800,
+        "y": 135
+      }
+    },
+    {
+      "id": "sello-tiamat",
+      "panel": "2. El cuerpo",
+      "corto": "Sello mesopotámico",
+      "titulo": "Impresión de sello cilíndrico mesopotámico, identificado por el grupo como Marduk y Tiamat",
+      "autor": "Anónimo (Mesopotamia)",
+      "fecha": "c. 2500-2150 a.E.C.",
+      "mito_o_teoria": "Enuma Elish (Babilonia): Marduk vence a Tiamat, las aguas saladas primordiales, y parte su cuerpo en dos para formar cielo y tierra. El poema se compuso siglos después del sello y la escena no muestra con claridad el desmembramiento, así que la identificación es una hipótesis.",
+      "formula_visual": "Dioses de pie, con rayos en los hombros, junto a una figura central de tocado cónico; a la izquierda, una criatura serpentina de cuerpo escamoso, y bajo la escena lo que parece una banda de escamas.",
+      "por_que_esta_aqui": "Aporta el cuerpo que se parte para hacer el mundo, el caso más violento del panel; conviene presentarlo con la salvedad de que su identificación con el Enuma Elish es hipotética.",
+      "imagen": {
+        "archivo": "img/sello-tiamat.jpg",
+        "ancho": 547,
+        "alto": 368,
+        "alt": "Impresión en arcilla de un sello cilíndrico: figuras de dioses con rayos en los hombros y una criatura serpentina de cuerpo escamoso.",
+        "credito": "Imagen aportada por el grupo."
+      },
+      "posicion": {
+        "x": 5,
+        "y": 6,
+        "w": 34,
+        "r": -1.3
+      },
+      "por_verificar": [
+        "Identificación de la escena (Marduk y Tiamat)",
+        "Datación del sello, museo, crédito y licencia",
+        "Descripción de la banda inferior"
+      ],
+      "mapa": {
+        "x": 200,
+        "y": 470
+      }
+    },
+    {
+      "id": "crater-gea",
+      "panel": "2. El cuerpo",
+      "corto": "Gea",
+      "titulo": "Nacimiento de Erictonio: Gea emergiendo de la tierra (crátera ática de figuras rojas)",
+      "autor": "Pintor ático anónimo",
+      "fecha": "c. 450 a.E.C.",
+      "mito_o_teoria": "Mito ateniense de la autoctonía: Gea, la Tierra que según la Teogonía de Hesíodo surge tras el Caos, emerge del suelo y entrega a Atenea al niño Erictonio, hijo de Hefesto. Es un episodio del origen de Atenas más que una cosmogonía; su auge en la cerámica ática se suele relacionar con la ideología ateniense de la autoctonía en el siglo V a.E.C.",
+      "formula_visual": "Figura femenina que emerge a medio cuerpo del suelo y tiende un niño: la tierra como cuerpo vivo que da a luz.",
+      "por_que_esta_aqui": "Muestra la Tierra como cuerpo materno que da a luz; es mito político antes que cosmogonía, y por eso funciona como contrapunto del cuerpo despedazado de Tiamat.",
+      "imagen": {
+        "archivo": "img/crater-gea.jpg",
+        "ancho": 509,
+        "alto": 334,
+        "alt": "Vaso griego de figuras rojas: un niño pasa de unas manos a otras entre figuras de pie, una de ellas alada.",
+        "credito": "Imagen aportada por el grupo."
+      },
+      "posicion": {
+        "x": 41,
+        "y": 14,
+        "w": 25,
+        "r": 1.4
+      },
+      "por_verificar": [
+        "Pintor o taller, fecha, museo, crédito y licencia",
+        "Que Gea sea la figura que emerge a la izquierda"
+      ],
+      "mapa": {
+        "x": 500,
+        "y": 480
+      }
+    },
+    {
+      "id": "vishnu-ananta",
+      "panel": "2. El cuerpo",
+      "corto": "Vishnú",
+      "titulo": "Vishnú en su sueño cósmico (Vishnu Anantashayana)",
+      "autor": "Anónimo (escultor indio)",
+      "fecha": "s. XI E.C.",
+      "mito_o_teoria": "Mito hindú de la creación cíclica (Puranas): Vishnu duerme sobre la serpiente Shesha en el océano cósmico entre ciclos; de su ombligo brota el loto donde nace Brahma, que crea el mundo, y cada kalpa se disuelve y se renueva. El relato es cíclico, no un origen único.",
+      "formula_visual": "Cuerpo divino recostado en horizontal, apoyado, según la iconografía de Anantashayana, sobre la serpiente Shesha, rodeado de acompañantes y de un friso de pequeñas figuras.",
+      "por_que_esta_aqui": "Aquí el mundo nace del cuerpo de un dios dormido, no de uno despedazado ni materno; el ciclo que cuenta el mito no es un ouroboros ni debe leerse como anticipo de la cosmología cíclica moderna.",
+      "imagen": {
+        "archivo": "img/vishnu-ananta.jpg",
+        "ancho": 613,
+        "alto": 456,
+        "alt": "Relieve de arenisca: un dios recostado en horizontal, con acompañantes y un friso de pequeñas figuras sobre él.",
+        "credito": "Imagen aportada por el grupo."
+      },
+      "posicion": {
+        "x": 52,
+        "y": 50,
+        "w": 42,
+        "r": -0.8
+      },
+      "por_verificar": [
+        "Museo, procedencia, crédito y licencia",
+        "Visibilidad de Shesha en el relieve"
+      ],
+      "mapa": {
+        "x": 800,
+        "y": 470
+      }
+    }
+  ],
+  "relaciones": [
+    {
+      "a": "fanes-relieve",
+      "b": "bosco-jardin-exterior",
+      "tipo": "analogia",
+      "etiqueta": "el cosmos dentro de un contorno",
+      "solidez": "media",
+      "nota": "Dos maneras de encerrar el origen: el óvalo zodiacal que rodea a Fanes y la esfera de cristal que contiene la Tierra recién creada. Se parecen en el contorno; entre un relieve romano y un tríptico flamenco no hay transmisión demostrada."
+    },
+    {
+      "a": "fanes-relieve",
+      "b": "attia-big-bang",
+      "tipo": "analogia",
+      "etiqueta": "del huevo a la esfera que irradia",
+      "solidez": "débil",
+      "nota": "Un volumen compacto que se abre: de Fanes naciendo del huevo cósmico a una esfera que reparte luz por el espacio. Lemaître llamó «átomo primitivo» al origen del universo y a veces se lo ha descrito como huevo cósmico, pero el parecido entre estas dos obras es de forma, no de linaje."
+    },
+    {
+      "a": "bosco-jardin-exterior",
+      "b": "attia-big-bang",
+      "tipo": "contraste",
+      "etiqueta": "esfera vista desde fuera y desde dentro",
+      "solidez": "media",
+      "nota": "El Bosco muestra el mundo como una esfera cerrada que Dios contempla desde fuera; Attia deja al espectador dentro de una esfera que proyecta luz a su alrededor. Es la diferencia entre un cosmos con exterior y un universo en expansión que no lo tiene."
+    },
+    {
+      "a": "sello-tiamat",
+      "b": "crater-gea",
+      "tipo": "ideas",
+      "etiqueta": "de Oriente a Hesíodo",
+      "solidez": "media",
+      "nota": "Varios estudiosos, entre ellos Walter Burkert y Martin West, han defendido que la sucesión de dioses de la Teogonía de Hesíodo toma motivos del Próximo Oriente, entre ellos el Enuma Elish. La relación es entre los relatos, no entre estos dos objetos, y sigue discutida."
+    },
+    {
+      "a": "sello-tiamat",
+      "b": "vishnu-ananta",
+      "tipo": "analogia",
+      "etiqueta": "aguas primordiales y serpiente",
+      "solidez": "débil",
+      "nota": "Un mar serpentino que precede al mundo en el mito babilonio y un océano cósmico sobre el que reposa el dios hindú. Depende de que la criatura del sello sea Tiamat, que es solo una hipótesis."
+    },
+    {
+      "a": "crater-gea",
+      "b": "vishnu-ananta",
+      "tipo": "contraste",
+      "etiqueta": "cuerpo que da a luz, cuerpo que duerme",
+      "solidez": "media",
+      "nota": "En la crátera la Tierra es un cuerpo materno que entrega un niño y funda una ciudad; en el relieve el mundo brota de un cuerpo divino dormido. Son dos cuerpos que originan: uno activo y político, otro pasivo y cíclico."
+    },
+    {
+      "a": "fanes-relieve",
+      "b": "vishnu-ananta",
+      "tipo": "analogia",
+      "etiqueta": "serpiente y tiempo",
+      "solidez": "débil",
+      "nota": "Una serpiente enroscada y un tiempo que gira: Fanes entre los signos del zodiaco, Vishnú entre un ciclo de creación y el siguiente. Conviene no leer el relieve indio como un ouroboros ni como anticipo de la cosmología cíclica moderna."
+    },
+    {
+      "a": "bosco-jardin-exterior",
+      "b": "crater-gea",
+      "tipo": "analogia",
+      "etiqueta": "la tierra que aparece",
+      "solidez": "media",
+      "nota": "El tercer día del Génesis hace aparecer el suelo entre las aguas; en la crátera, Gea sube del suelo para entregar un niño. Son dos maneras de mostrar la tierra naciendo: una como acto de la palabra y otra como cuerpo."
+    },
+    {
+      "a": "fanes-relieve",
+      "b": "sello-tiamat",
+      "tipo": "contraste",
+      "etiqueta": "origen entero, origen partido",
+      "solidez": "media",
+      "nota": "Fanes nace completo del huevo y ordena el mundo; el cuerpo de Tiamat, según el Enuma Elish, se parte en dos para formarlo. Es la tensión entre un origen que se despliega desde un todo y otro que exige dividir."
+    },
+    {
+      "a": "attia-big-bang",
+      "b": "sello-tiamat",
+      "tipo": "analogia",
+      "etiqueta": "romper para crear",
+      "solidez": "débil",
+      "nota": "Una esfera de fragmentos que se dispersa y un cuerpo que se parte para hacer cielo y tierra: en ambos el mundo sale de algo que se rompe. La conexión es de forma, y el sello solo ilustra el motivo del Enuma Elish con las salvedades de su ficha."
+    },
+    {
+      "a": "bosco-jardin-exterior",
+      "b": "vishnu-ananta",
+      "tipo": "contraste",
+      "etiqueta": "dios que mira, dios que sueña",
+      "solidez": "media",
+      "nota": "El Dios del Bosco mira la creación desde fuera y la hace con la palabra; Vishnú duerme dentro del océano y el mundo brota de su cuerpo. Son dos relaciones opuestas entre el creador y lo creado."
+    }
+  ]
+}
